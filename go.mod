@@ -1,3 +1,3 @@
 module github.com/go-net-health/health
 
-go 1.26.4
+go 1.27.1
